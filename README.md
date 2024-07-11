@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Nikhil Arora</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<img align="right" alt="coding" width=300 src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
+<img align="right" alt="coding" width=200 src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belikenikhil03&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
 
