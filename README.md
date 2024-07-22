@@ -1,8 +1,5 @@
-![logo](https://github.com/belikenikhil03/NikhilArora/blob/main/1_s9l_pNFFC3kJys-kHHtO6A.jpg)
 <h1 align="center">Hey 👋, I'm Nikhil Arora</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
-
-<img align="right" alt="coding" width=275 src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belikenikhil03&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
 
@@ -26,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belikenikhil03&show_icons=true&locale=en&layout=compact" alt="belikenikhil03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belikenikhil03&show_icons=true&locale=en" alt="belikenikhil03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belikenikhil03&" alt="belikenikhil03" /></p>
