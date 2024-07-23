@@ -1,4 +1,4 @@
-
+![LinkedIn README Image](1_s9l_pNFFC3kJys-kHHtO6A.jpg)
 <h1 align="center">Hey 👋, I'm Nikhil Arora</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
