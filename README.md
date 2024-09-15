@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belikenikhil03&label=Profile%20views&color=0e75b6&style=flat" alt="belikenikhil03" /> </p>
 
-- 🌱 I’m currently learning **NLP, Generative AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision**
 
